@@ -1,0 +1,11 @@
+{
+    "components": {
+        "navbar": {
+            "home": "Accueil",
+            "about": "À propos",
+            "projects": "Projets",
+            "services": "Services",
+            "contact": "Contact"
+        }
+    }
+}
